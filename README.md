@@ -1,1 +1,2 @@
-# CS300 Data Structures Assignments Fall 2021
+# CS300 Data Structures
+CS300 Data Structures Assignments Fall 2021
